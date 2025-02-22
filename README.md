@@ -9,5 +9,5 @@
          Options:
             -h --help              Show this help message.
             -g --gtf   gtf file
-            -b --bed  bed file
+            -b --bed  bed file, such as peak result from MACS2
             -o --output outputfile
